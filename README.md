@@ -2,7 +2,7 @@
 My reading journal for Code Fellows
 
 ## The importance of Growth Mindset
-**Growth mindset** is the ability to *grit* through any challenges you may face to develop skills or enhance personal growth. Even when faced with failure, those with growth mindset continue to *believe in their capabilities* and acan *persevere* through these struggles. In doing so, by putting in the effort to work hard and succeed you learn and grow as an individual. 
+**Growth mindset** is the ability to *grit* through any challenges you may face to develop skills or enhance personal growth. Even when faced with failure, those with growth mindset continue to *believe in their capabilities* and can *persevere* through these struggles. In doing so, by putting in the effort to work hard and succeed you learn and grow as an individual. 
 
 ![growth_mindset](https://user-images.githubusercontent.com/72041281/232587238-0b7211ca-401c-48f0-b067-2a78f1c86181.png)
 
