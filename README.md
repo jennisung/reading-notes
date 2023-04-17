@@ -18,6 +18,7 @@ I am a student at Code Fellows, aspiring to become a software developer. I resid
 
 **Follow me on my journey and add me on GitHub and Linkedin**
 
-[Github profile](https://github.com/jennisung) <br>
+[Github profile](https://github.com/jennisung) 
+
 [Linkedin profile](https://www.linkedin.com/in/jennisung/)
 
