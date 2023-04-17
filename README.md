@@ -5,7 +5,7 @@ My reading journal for Code Fellows
 **Growth mindset** is the ability to grit through any challenges you may face to master skills or improve yourself. Despite any failures you may undergo, you continue to believe in your capabilities to improve to reach your goals. By putting in the effort to work hard through any challenges you learn from these struggles and grow. 
 
 
-![](growth_mindset.png)
+![growth_mindset](https://user-images.githubusercontent.com/72041281/232587238-0b7211ca-401c-48f0-b067-2a78f1c86181.png)
 
 
 ## My 3 key reminders to keep yourself in a growth mindset
