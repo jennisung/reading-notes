@@ -13,6 +13,11 @@ My reading journal for Code Fellows
 3. Don't compare yourself to others
 
 ## About myself
-I am a student at Code Fellows, aspiring to become a software developer. Currently, I reside in NYC and I'm a recent graduate of Columbia University 23'.
+I am a student at Code Fellows, aspiring to become a software developer. I reside in NYC and I'm a recent graduate of Columbia University 23' where I majored in Political Science.
 
-[Github profile](https://github.com/jennisung)
+
+**Follow me on my journey and add me on GitHub and Linkedin**
+
+[Github profile](https://github.com/jennisung) <br>
+[Linkedin profile](https://www.linkedin.com/in/jennisung/)
+
