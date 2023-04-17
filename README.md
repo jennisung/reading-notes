@@ -2,4 +2,4 @@
 My reading journal for Code Fellows
 
 
-<https://github.com/jennisung>
+[Github profile](https://github.com/jennisung)
