@@ -1,7 +1,7 @@
 # Class 01 Notes
 
 # What is Markdown?
-Created by John Gruber in 2004, markdown is a popular lightweight markup language that allows users to format elements into plain text documents. Unlike other plain text editors or word processing programs, such as WYSIWYG editor or Microsoft Word, Markdown adds specific syntax to the text to change the format.
+Created by John Gruber in 2004, markdown is a popular lightweight markup language that allows users to format elements into plain text documents. Unlike other plain text editors or word processing programs, such as WYSIWYG editor or Microsoft Word, Markdown adds specific syntax to the text to change the format. There are various web applications for macOS, Windows, Linux, iOS, and Android operating systems designed for writing in markdown. Thus, markdown is supported by plethora of desktop and web-based applications.
 
 # Why do we use Markdown?
 Markdown is convenient and widely used for multiple purposes such as creating websites, notes, documents, email messages, technical documentation. 
