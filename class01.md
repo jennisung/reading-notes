@@ -14,9 +14,8 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 # Examples
 
 ### Heading Element
-| Element | Markdown Syntax 
-|-------- | -------- |
-| Heading | # Heading1 <br>  ## Heading <br> ### Heading3 <br> #### Heading4 <br> ##### Heading5 <br> ###### Heading6 |
+
+> #Heading1 <br> ## Heading <br> ### Heading3 <br> #### Heading4 <br> ##### Heading5 <br> ###### Heading6 |
 
 
 ### Best practice Bold Element: Add two asterisk without spaces around the letters to bold.
