@@ -13,11 +13,16 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 
 # Examples
 
+> #Heading1 <br>  ##Heading <br> ###Heading3 <br> ####Heading4 <br> ##### 
+
 | Element | Markdown Syntax 
 |-------- | -------- |
-| Heading | #Heading1 <br>  ##Heading <br> ###Heading3 |
+| Heading | #Heading1 <br>  ##Heading <br> ###Heading3 <br> ####Heading4 <br> ##### |
 | Putting multiple lines in a markdown table | < br> |
 |Order List | 1. first item <br> 2. second item <br> 3. third item |
+
+
+
 |Unorder list | - first item <br> -second item <br> -third item |
 | 
 | Bold | ** Bold text ** | 
