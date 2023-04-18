@@ -4,11 +4,11 @@
 Created by John Gruber in 2004, markdown is a popular lightweight markup language that allows users to format elements into plain text documents. Unlike other plain text editors or word processing programs, such as WYSIWYG editor or Microsoft Word, Markdown adds specific syntax to the text to change the format. There are various web applications for macOS, Windows, Linux, iOS, and Android operating systems designed for writing in markdown. Thus, markdown is supported by plethora of desktop and web-based applications.
 
 # 3 reasons why we use Markdown
-1). Markdown is convenient and widely used for multiple purposes such as creating websites, writing notes, documents, email messages, and technical documentation. 
+1. Markdown is convenient and widely used for multiple purposes such as creating websites, writing notes, documents, email messages, and technical documentation. 
 
-2). There are many web-based applications that support markdown. Thus, files with markdown formatted texts can be opened by a majority of applications out there.
+2. There are many web-based applications that support markdown. Thus, files with markdown formatted texts can be opened by a majority of applications out there.
 
-3). Even if a certain application you use stops sometime in the future, you will still be able to read markdown text using any. text editing application
+3. Even if a certain application you use stops sometime in the future, you will still be able to read markdown text using any. text editing application
 
 
 # Examples
