@@ -9,15 +9,16 @@
 
 
 # What do the following commands do?
-pwd
 
-1. ls
+1. pwd
 
-2. cd
+2. ls
 
-3. mkdir
+3. cd
 
-4. touch
+4. mkdir
+
+5. touch
 
 # Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
