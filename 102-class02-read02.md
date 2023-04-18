@@ -11,22 +11,22 @@
 # What do the following commands do?
 pwd
 
-ls
+1. ls
 
-cd
+2. cd
 
-mkdir
+3. mkdir
 
-touch
+4. touch
 
 # Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
-cd projects
+1. cd projects
 
-mkdir new-project
+2. mkdir new-project
 
-touch new-project/newfile.md
+3. touch new-project/newfile.md
 
-cd ..
+4. cd ..
 
-ls projects/new-project
+5. ls projects/new-project
