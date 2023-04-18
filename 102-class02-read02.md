@@ -10,7 +10,7 @@
 
 # Examples of Commands
 
-1. **pwd**  (Print Working Directory): Tells you where your current working directort is.
+1. **pwd**  (Print Working Directory): Tells you where your current working directory is.
 
 
 2. **ls** : list of the contents of the director
@@ -23,12 +23,12 @@
 
 # Scenario if the following commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
-1. **cd projects** : changes directory to **projects**
+1. **cd projects** : changes directory to **projects** 
 
-2. **mkdir new-project** creates a new diretory called **new-projects**
+2. **mkdir new-project** creates a new directory called **new-projects**
 
-3. **touch new-project/newfile.md** : creates a new file
+3. **touch new-project/newfile.md** : creates a new file called **newfile.md**
 
-4. **cd ..** : Used in paths as a reference to your current directories parent directory
+4. **cd ..** : takes you back to your home
 
 5. **ls projects/new-project** : list the contents under **projects/new-project**
