@@ -25,10 +25,12 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 | Bold | This **word** is bold	 |
 
 
+
 ### Best Practice Italicized Element: Add one asterisk without spaces around the letters to italicize.
 | Element | Markdown Syntax 
 |-------- | -------- |
 | Italic | This *word* is italicized |
+
 
 
 ### Creating a Link
@@ -36,9 +38,16 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 |-------- | -------- |
 |link | 	[title] (https://www.example.com) * note: delete gap*|
 
+
+
 ### 3 ways to create an unordered bullet list: Add dashes (-), asterisks (*), or plus signs (+) in front of each items to create unordered bullet list.
 | Element | Markdown Syntax 
 |-------- | -------- |
 |Unorder list | - first item <br> -second item <br> -third item |
 | Unorder list | * first item <br> * second item <br> * third item |
 |Unorder list | + first item <br> + second item <br> + third item |
+
+
+|  R |  Python |    Matlab |
+| --------- |:---|:---------|:-----|
+| library(tidyverse) |import numpy as np|
