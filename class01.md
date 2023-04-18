@@ -13,22 +13,32 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 
 # Examples
 
-> #Heading1 <br>  ##Heading <br> ###Heading3 <br> ####Heading4 <br> ##### 
-
+### Heading Element
 | Element | Markdown Syntax 
 |-------- | -------- |
-| Heading | #Heading1 <br>  ##Heading <br> ###Heading3 <br> ####Heading4 <br> ##### |
-| Putting multiple lines in a markdown table | < br> |
-|Order List | 1. first item <br> 2. second item <br> 3. third item |
+| Heading | # Heading1 <br>  ## Heading <br> ### Heading3 <br> #### Heading4 <br> ##### Heading5 <br> ###### Heading6 |
 
 
+### Best practice Bold Element: Add two asterisk without spaces around the letters to bold.
+| Element | Markdown Syntax 
+|-------- | -------- |
+| Bold | This **word** is bold	 |
 
-|Unorder list | - first item <br> -second item <br> -third item |
-| 
-| Bold | ** Bold text ** | 
-| Italic | *italicized text * | <br>
-| Task List | - [x] Write the press release<br> - [ ] Update the website |
-| Highlight | I need to highlight these ==very important words==. |
-|Definition list | term <br>:definition |
+
+### Best Practice Italicized Element: Add one asterisk without spaces around the letters to italicize.
+| Element | Markdown Syntax 
+|-------- | -------- |
+| Italic | This *word* is italicized |
+
+
+### Creating a Link
+| Element | Markdown Syntax 
+|-------- | -------- |
 |link | 	[title] (https://www.example.com) * note: delete gap*|
-| image | ![alt text] (image.jpg) |
+
+### 3 ways to create an unordered bullet list: Add dashes (-), asterisks (*), or plus signs (+) in front of each items to create unordered bullet list.
+| Element | Markdown Syntax 
+|-------- | -------- |
+|Unorder list | - first item <br> -second item <br> -third item |
+| Unorder list | * first item <br> * second item <br> * third item |
+|Unorder list | + first item <br> + second item <br> + third item |
