@@ -46,8 +46,3 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 |Unorder list | - first item <br> -second item <br> -third item |
 | Unorder list | * first item <br> * second item <br> * third item |
 |Unorder list | + first item <br> + second item <br> + third item |
-
-
-|  R |  Python |    Matlab |
-| --------- |:---|:---------|:-----|
-| library(tidyverse) |import numpy as np|
