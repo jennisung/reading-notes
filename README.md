@@ -1,6 +1,8 @@
 # Table of Contents
 
-## Code 102: Intro to Software Development
+_This page will serve as a place to document my notes for Code Fellows_
+
+## Code 102 Reading Notes
 
 1. [Class1](https://jennisung.github.io/codefellows102:reading-notes/class1)
 2. [Class2](https://jennisung.github.io/codefellows102:reading-notes/class2)
@@ -11,7 +13,7 @@
 7. [Class7](https://jennisung.github.io/codefellows102:reading-notes/class7)
 8. [Class8](https://jennisung.github.io/codefellows102:reading-notes/class8)
 
-## Code 201: Foundations of Software Development
+## Code 201 Reading Notes
 
 1. [Class1](https://jennisung.github.io/codefellows201:reading-notes/class1)
 
