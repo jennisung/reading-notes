@@ -17,18 +17,18 @@
 
 3. **cd** : change directories. For example movie to another directory
 
-4. **mkdir** :
+4. **mkdir** : creates directories
 
-5. **touch** :
+5. **touch** : create a blank file
 
-# Scenarioa if the following commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+# Scenario if the following commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
-1. > cd projects
+1. **cd projects**
 
-2. > mkdir new-project
+2. **mkdir new-project**
 
-3. > touch new-project/newfile.md
+3. **touch new-project/newfile.md**
 
-4. > cd ..
+4. **cd ..**
 
-5. >ls projects/new-project
+5. **ls projects/new-project**
