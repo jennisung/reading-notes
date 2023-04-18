@@ -23,12 +23,12 @@
 
 # Scenario if the following commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
-1. **cd projects**
+1. **cd projects** : changes directory to **projects**
 
-2. **mkdir new-project**
+2. **mkdir new-project** creates a new diretory called **new-projects**
 
-3. **touch new-project/newfile.md**
+3. **touch new-project/newfile.md** : creates a new file
 
-4. **cd ..**
+4. **cd ..** : Used in paths as a reference to your current directories parent directory
 
-5. **ls projects/new-project**
+5. **ls projects/new-project** : list the contents under **projects/new-project**
