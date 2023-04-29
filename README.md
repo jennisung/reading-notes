@@ -1,6 +1,6 @@
 #  Reading Notes
 
-*This page will serve as a place to document my notes for Code Fellows* :computer:
+*This page will serve as a place to document my notes for Code Fellows* 
 
 ## Code 102 - Intro to Software Development
 
@@ -125,10 +125,19 @@
 
 I am a student at Code Fellows, aspiring to become a software developer. I reside in NYC and I'm a recent graduate of Columbia University 23' where I majored in Political Science.
 
+**Current Progress**
+- [x] Code 102: Intro to Software Development
+
+- [ ] Code 201: Foundations of Software Development
+
+- [ ] Code 301: Intermediate Software Development
+
+- [ ] Code 401: Advanced Software Development
+
 
 **Follow me on my journey as I learn how to code. Add me on my socials**
 
- :point_right: [Github profile](https://github.com/jennisung)  
+ 👉 [Github profile](https://github.com/jennisung)  
 
 
-:point_right: [Linkedin profile](https://www.linkedin.com/in/jennisung/)
+👉 [Linkedin profile](https://www.linkedin.com/in/jennisung/)
