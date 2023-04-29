@@ -1,6 +1,5 @@
 # Reading Notes
 
-# Class 01 Notes
 
 # What is Markdown?
 
