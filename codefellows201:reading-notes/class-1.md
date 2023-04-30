@@ -1,22 +1,28 @@
 # Reading Notes
 
-## Code 201 - Foundations of Software Development:
+## Code 201 - Foundations of Software Development
 
 
 ## Overview of reading notes
 
-These reading notes will be important as they provide a quick overview of the workings of the web and a concise summary of how HTML, CSS, and JavaScript works.
+These reading notes will be important as they provide a quick overview of the workings of the web and will provide a quick summary of how HTML, CSS, and JavaScript works.
 
 ## Getting Started
 
 ### 1. Compose a short poem describing how HTTP sends data between computers.
+
+**HTTP Haiku**
+
+Requesting copy, <br>
+Message sent to HTTP to work, <br>
+Connecting the web.
 
 
 ### 2. How HTML, CSS, and JS files are “parsed” in the browser.
 
 When web browsers request HTML files from servers, these files will likely contain < link> and < script> elements. These elements will be referencing external CSS and JavaScript files. The order in which HTML, CSS, and JS files are "parsed" is important in how pages are loaded onto a page.
 
-1. When loading a page the HTML file will be parsed first and will look for any < link> and < script> elements that are referencing external CSS and/or Javascript files.
+1. When loading a page, the HTML file will be parsed first and will look for any < link> and < script> elements that are referencing external CSS and/or Javascript files.
 
 2. As the HTML is parsed through, the web browser will send requests to the server for CSS and Javascript files found in the < link> and/or < script> elements.
 
@@ -27,7 +33,7 @@ When web browsers request HTML files from servers, these files will likely conta
 
 ### 3. How can you find images to add to a Website?
 
-Images can be found on [Googe Images](https://images.google.com/). Pick an image you'd like, and click to enlarge the image. Once the image is enlarged right-click on the image and click on "Save Image As". Choose a safe location to store the image for later use. It is also important to remember that most images that are on the web will have a copyright. To mitigate the possible issue of violating copyright, select the *Tools* button, then click on the *Usage Rights* tab, and select *Creative Commons licenses*.
+Images can be found on [Googe Images](https://images.google.com/). Pick an image you like, and click to enlarge the image. Once the image is enlarged right-click on the image and click on "Save Image As". Choose a location to store the image for later use. It is also important to remember that most images on the web will have a copyright. To mitigate the possible issue of violating copyright, select the *Tools* button, then click on the *Usage Rights* tab, and select *Creative Commons licenses*.
 
 
 ### 4. How do you create a String vs a Number in JavaScript? And other variables.
@@ -60,12 +66,14 @@ In HTML, an **atribute** contains extra information about an element that doesn'
 **For example** a paragraph element < p>
 
 * **Contents of element:** the contents of an element. Such as text.  
-* **Closing Tag:** this is the same as the opening tag, except is also has a forward slah before the element name or opening angle bracket. **For example:** a paragraph element </ p>
+* **Closing Tag:** this is the same as the opening tag, except is also has a forward slash before the element name or opening angle bracket. 
+
+**For example:** a paragraph element </ p>
 
 
 ### What is the Difference between < article> and < section> element tags?
 
-The < section> element is used to group related content, whereas the < article> contains independent content and should make sense on its own.
+The < section> element is used to group related content, whereas the < article> contains independent content and should make sense on its' own.
 
 ### What Elements does a “typical” website include?
 
@@ -145,3 +153,4 @@ To add Javascript to HTML, you can place a < script> element in the HTML file to
 
 ## Things I want to know more about
 
+* Is there a programming language that is preferred for web development?

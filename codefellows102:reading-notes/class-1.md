@@ -47,3 +47,4 @@ Created by John Gruber in 2004, markdown is a popular lightweight markup languag
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol? For best practice to bold a text, add two asterisk \*_ without spaces around the text.For best practice to italicize a text, add one asterisk _ without spaces around the text.
 5. How do you create a link with Markdown? To create a link on markdown. Type a bracket. Add a title inside the bracket. Then type the parenthesis, and add the url inside the parenthesis. Do not leave a space between bracket and patenthesis. [title] (https://www.example.com)
 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? The 3 ways to create an unordered bullet lists is by typing dashes (-), asterisks (\*), or plus signs, followed by text
+
