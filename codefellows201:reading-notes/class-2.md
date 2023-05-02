@@ -2,6 +2,11 @@
 
 ## Code 201 - Foundations of Software Development:Basics of HTML, CSS & JS
 
+## Overview of reading notes
+
+These readings will be important as it will go over basic concepts of HTML/CSS/javacipt and will provide a good introduction on these topics. Getting a solid foundation on HTML/CSS/Javascript will be important as we start developing websites. It will also help soldify some of the things we learned in Code 102.
+
+
 ### Why is it important to use semantic elements in our HTML?
 
 Semantic elements are important in HTML because it makes the HTML more accessible and comprehensible.
@@ -17,7 +22,7 @@ There are several benefits from having a semantic tag:
 
 HTML has 6 levels of headings. h1, h2, h3, h4, h5, h6.
 
-**example**
+**example:**
 
 * **Heading 1(largest/highest):** < h1>
 
@@ -115,3 +120,6 @@ Comparison operators| Explanation |
 The difference between the logical operator '&&' (AND) and '||' (OR) is that for the '&&' operator, when you chain together two or more expressions, all of them have to be true for the whole expression to come back true. Whereas, the '||' only one of the the expression needs ot be true for whole expression to be true.
 
 ## Things I want to know more about
+
+* Uses for either if else statement or switch statements.
+
