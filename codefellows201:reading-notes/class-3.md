@@ -28,7 +28,7 @@ Two ways to change the numbers on list items of an ordered list:
 
 ### List and describe the four parts of an HTML elements box as referred to by the box model.
 
-**Four parts of box model**
+**Four parts of box model:**
 
 1. **Content Box:** refers to where your contents are contained and displayed. You can manipulate the size by using properties like 'inline-size' and 'block-size' or 'width' and 'height'.
 2. **Padding Box:** the padding is the space outside/around the contents and is the white space. You can manipulate the size using 'padding' property. 
@@ -47,14 +47,14 @@ Arrays are useful way to store a collection of values or items in a single varia
 
 Yes, the following people array is a valid array. You can have arrays inside an array. This is called a multidimensional array. To access specific values inside an array you need to understand how arrays are numbered. The first item will have an index of 0, the second a index of 1, and etc. To access a specific item you will then use brackets notation and type the specific number index of the item you want to access.
 
-**example to access 32**
+**example to access 32:**
 
 > const age = people[0][1];
 console.log(age); 
 
 ### List five shorthand operators for assignment in javascript and describe what they do.
 
-**Five shorthand operations for assignment in javascript**
+**Five shorthand operations for assignment in javascript:**
 
 1. **+=** : this shorthand operation will add the value of the two operands and then assign the outcome of the variable to the left.
 

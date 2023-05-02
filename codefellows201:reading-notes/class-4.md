@@ -55,3 +55,5 @@ A **parameter** is a value that acts as a placeholder for in input value in a fu
 ### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey. 
 
 I believe "learning from fellow students" and "engaged collaboration" as two crucial benefits that will support my coding journey. Active participation and collaboration are valuable as they foster accountability and focus within the team. In addition, teamwork offers the advantage of seeking help and support from each other. The other benefit, "learning from fellow students", is also essential as it allows me to gain insights on how to approach a problem by observing and learning from others in class. By becoming more exposed to the thoughts of others and how they solve problems, I can improve as a developer. 
+
+## Things I want to know more about

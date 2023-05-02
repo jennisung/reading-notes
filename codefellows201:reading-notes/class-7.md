@@ -38,3 +38,5 @@ When you use the **this** term in object literals you're referring to the object
 To help better explain prototypes and inheritances, I will use an anology from my own work experience to explain these two concepts. As a teaching assistant for a math course at a college, I taught students how to solve various problems using my own method to solve a problem, a basic step-by-step guide or method. Let's consider this an analogy for prototype.
 
 Now, every student is different, with vastly different learning styles and each students have their own unique techniques to solve a problem. As students solve problems they may solve the problem different due to their own unique way of going about a problem. They use the basic methods I showed them and they also add their own spin to solving the problem. This is considered inheritance. 
+
+## Things I want to know more about

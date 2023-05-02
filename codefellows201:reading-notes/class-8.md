@@ -25,3 +25,6 @@ Using the wrong property to change the visual display of a HTML document can neg
 ### How does this topic connect with your long term goals?
 
 Flexbox will be a powerful tool when I get into web development as it'll help me make better responsive web layouts.
+
+
+## Things I want to know more about

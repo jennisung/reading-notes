@@ -42,3 +42,5 @@ The **this** term in code shown is refers to the "dog' object. Using **this** is
 ### Briefly describe the relationship between the DOM and JavaScript.
 
 DOM is important as it allows the elements and contents of a page to interact using javascript. Thus allowing you to manipulate the behavior of the contents of your page.
+
+## Things I want to know more about

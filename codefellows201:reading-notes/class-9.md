@@ -39,9 +39,12 @@ In javascript, an event is what allows for things or "events" to happen on a web
 
 ### Describe the event object. Why is the target within the event object useful?
 
-**Event Object** is 
-The target in the event object is useful because
+**Event Object** is a parameter that is automatically passed to the event handler functions. It provides added information and related features to the event. The target in the event object is useful because it allows you to know/identify the element the event reacted to.
 
-automatically passed to event handlers to provide extra features and information.
 
 ### What is the difference between event bubbling and event capturing?
+
+**Event bubbling** and **event capturing** both describes how web sites handles events (or how events are propagated). The difference between the two is that for **event bubbling** the event goes through its parent element and then target element. **Event capturing** is the reverse of this.
+
+## Things I want to know more about
+
