@@ -2,6 +2,9 @@
 
 ## Code 201 - Foundations of Software Development: Readings: HTML Lists, Control Flow with JS, and the CSS Box Model
 
+## Overview of reading notes
+
+This reading notes will be important as it will delve deeper into HTML/CSS, such as the importance of box model and other HTML elements, like list order list and unorder list. In addition, we'll learn more about javascript topics such as arrays, loops, and conditional loops.
 
 ### When should you use an unordered list < ul > in your HTML document? 
 
@@ -25,6 +28,7 @@ Two ways to change the numbers on list items of an ordered list:
 
 ### Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 
+Lets' consider **Box model**, **margin**, and **padding** as humanized characters. The **Box Model** is the main character of the story. And the **Margin** and **padding** are side characters. The **box model** is characterized as someone that creates order and likes creating boundaries. **Padding** is somewhat of a side character, but still very important. **Padding** likes to make sure its' guests inside his home are always comfortable, so it likes making sure the house is always roomy. Lastly, **Margin** is characterized as someone that respect others' boundaries. It doesn't like invading others' space.
 
 ### List and describe the four parts of an HTML elements box as referred to by the box model.
 
@@ -70,7 +74,7 @@ x = x + f()
 
 2. **-=** : this shorthand operation will subtract the value of the two operands and then assign the outcome of the variable to the left.
 
-**example**
+**example:**
 
 Shorthand Operator:
 
@@ -81,7 +85,7 @@ x = x - f()
 
 3. ***=** : this shorthand operation will multiply the value of the two operands and then assign the outcome to the variable to the left.
 
-**example**
+**example:**
 
 
 Shorthand Operator:
@@ -93,7 +97,7 @@ x = x * f()
 
 4. **%=** : this shorthand operation will get the remainder on the two operands and then assign the outcome of the variable to the left.
 
-**example**
+**example:**
 
 
 Shorthand Operator:
@@ -105,7 +109,7 @@ x = x % f()
 
 5. **/=** : this shorthand operation will divide the value of the two operands and then assign the outcome variable to the left.
 
-**example**
+**example:**
 
 
 Shorthand Operator:
@@ -119,10 +123,13 @@ x = x / f()
 ### Read the code below and evaluate the last expression and explain what the result would be and why.
 
 >  let a = 10; <br>
+
  let b = 'dog'; <br>
+
  let c = false;
 
 >// evaluate this <br>
+
  (a + c) + b;
 
 
@@ -144,9 +151,11 @@ let employeeBenefits; <br> if (overTime === true) {
 
 Loops are useful in javascript as you can use it to run a piece of code over and over again, or run the code with slightly different variation. An example of a loop that is useful in javascript is if you want to just a say a phrase multiple times on your page.
 
-**example**
+**example:**
 > for (let i = 0; i < 5; i++) {
   console.log("Hello, world!");
 }
 
 ### Things I want to know more about
+
+* the difference uses for loops.
