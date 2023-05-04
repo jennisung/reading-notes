@@ -2,6 +2,10 @@
 
 ## Code 201 - Foundations of Software Development: Readings: HTML Links, JS Functions, and Intro to CSS Layout.
 
+## Overview of reading notes:
+
+These reading will be important it'll delve deeper into ways to layout things on your website. The reading also go over the fundamental concepts of functions. In addition, to some readings that talk about the importance of pair programming when learning to code. 
+
 ### To create a basic link, we wrap text or other content inside what element?
 
 By using the < a> element you can create a basic link is created by wrapping the texr or other inside this element. In addition, you will use the **href** attribute (Hypertext Reference) to add the web address you want to turn to a hyperlink. 
@@ -46,14 +50,14 @@ In absolute positioning, the element is position relative to the intial containi
 
 A **function delcaration** is when you create/define a function. Whereas a **function invocation** is when you run or execute a function. Which means that the code in the function is executed and the result is returned.
 
-
 ### What is the difference between a parameter and an argument?
 
 A **parameter** is a value that acts as a placeholder for in input value in a function Whereas a **argument** is the actual value that is pass through the function when it is executed or 'invoked'.
 
-
-### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey. 
+### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
 I believe "learning from fellow students" and "engaged collaboration" as two crucial benefits that will support my coding journey. Active participation and collaboration are valuable as they foster accountability and focus within the team. In addition, teamwork offers the advantage of seeking help and support from each other. The other benefit, "learning from fellow students", is also essential as it allows me to gain insights on how to approach a problem by observing and learning from others in class. By becoming more exposed to the thoughts of others and how they solve problems, I can improve as a developer. 
 
 ## Things I want to know more about
+
+* is css/HTML the only way we can layout/style websites? Do other programming languages use html/css too?
