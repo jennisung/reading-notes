@@ -8,7 +8,7 @@ These reading will be important it'll delve deeper into ways to layout things on
 
 ### To create a basic link, we wrap text or other content inside what element?
 
-By using the < a> element you can create a basic link is created by wrapping the texr or other inside this element. In addition, you will use the **href** attribute (Hypertext Reference) to add the web address you want to turn to a hyperlink. 
+By using the < a> element you can create a basic link is created by wrapping the text or other inside this element. In addition, you will use the **href** attribute (Hypertext Reference) to add the web address you want to turn to a hyperlink. 
 
 ### The href attribute contains what information?
 
@@ -60,4 +60,4 @@ I believe "learning from fellow students" and "engaged collaboration" as two cru
 
 ## Things I want to know more about
 
-* is css/HTML the only way we can layout/style websites? Do other programming languages use html/css too?
+* is css/HTML the only way we can layout/style websites? Do other programming languages use html/css too? 

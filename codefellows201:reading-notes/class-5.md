@@ -2,6 +2,10 @@
 
 ## Code 201 - Foundations of Software Development:Readings: Images, Color, Text
 
+## Overview of reading notes:
+
+Today's readings delved more into HTML/CSS and how we can better stylize websites. Learning how to better stylize our websites will be important as it will be the first thing people see when they come to our web page. It is also important to how "how" to better style our website to help with assessibility for those who need to use other devices to read the contents of our page.
+
 ### What is a real world use case for the alt attribute being used in a website?
 
 Using the alt attribute is important as provides an image with a textual description. This is important for several reason in the real world:
@@ -59,4 +63,4 @@ The two ways to add spacing around the characters displayed in an h1 element is:
 
 ## Things I want to know more about
 
-
+* how to use graphics in our website?
