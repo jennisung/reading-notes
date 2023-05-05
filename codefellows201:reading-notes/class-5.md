@@ -4,7 +4,7 @@
 
 ## Overview of reading notes:
 
-Today's readings delved more into HTML/CSS and how we can better stylize websites. Learning how to better stylize our websites will be important as it will be the first thing people see when they come to our web page. It is also important to how "how" to better style our website to help with assessibility for those who need to use other devices to read the contents of our page.
+Today's readings delved more into HTML/CSS and how we can better stylize websites. Learning how to better stylize our websites will be important as it will be the first thing people see when they come to our web page. It is also important to how "how" to better style our website to help with accessibility for those who need to use other devices to read the contents of our page.
 
 ### What is a real world use case for the alt attribute being used in a website?
 
@@ -33,7 +33,7 @@ To ensure that your website displays the screenshot with the highest quality pos
 
 ### Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
 
-The foregound colors of an HTML element is the color used for contents in the HTML element. While the background color is the color that's is used for the space in an element that have no foreground content. 
+The foreground colors of an HTML element is the color used for contents in the HTML element. While the background color is the color that's is used for the space in an element that have no foreground content. 
 
 
 ### Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
@@ -50,7 +50,7 @@ One thing to consider when choosing fonts for an HTML document is availability o
 
 **font-weight:** the font-weight property is used to control how bold the text is. There is many variations to setting the boldness. For example, you can set it to -light, -normal, -bold, -extrabold, etc.
 
-**font-stlye:** the font-style property is used to specify the type of the font of a HTML text element. You can change the style to normal, italic, or oblique.
+**font-style:** the font-style property is used to specify the type of the font of a HTML text element. You can change the style to normal, italic, or oblique.
 
 
 ### Describe two ways you could add spacing around the characters displayed in an h1 element.
