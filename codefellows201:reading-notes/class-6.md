@@ -3,6 +3,10 @@
 
 ## Code 201 - Foundations of Software Development: Readings: Problem Domain, Objects, and the DOM
 
+## Overview of reading notes:
+
+These readings are important as it delves into objects and DOM. Objects is important to understand as it helps you to organize data and functions. DOM is important as it allows javascript to interact with webpages.
+
 ### How would you describe an object to a non-technical friend you grew up with?
 
 In javascript, a object is sort of like a container that stores related information and functionality together. For example, in javascript a object may be a container for various variables or functions.
@@ -44,3 +48,5 @@ The **this** term in code shown is refers to the "dog' object. Using **this** is
 DOM is important as it allows the elements and contents of a page to interact using javascript. Thus allowing you to manipulate the behavior of the contents of your page.
 
 ## Things I want to know more about
+
+* Are there any best practices to keep in mind when working with the DOM? Like for accessibility purposes?
