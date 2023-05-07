@@ -6,7 +6,7 @@
 
 ## Overview of reading notes:
 
-Today's reading materials provide tools to enhance the visual appeal of your website. If you want to incorporate data or visuals into your website, you have the option to use <canvas> and Chart.js. These tools offer a range of functions that can help you create visually appealing and interactive elements to your website.
+Today's reading materials provide tools to enhance the visual appeal of your website. If you want to incorporate data or visuals into your website, you have the option to use `<canvas>` and Chart.js. These tools offer a range of functions that can help you create visually appealing and interactive elements to your website.
 
 ### What does the `<canvas>` allow a developer to acheive?
 
