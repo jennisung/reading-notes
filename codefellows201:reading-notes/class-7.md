@@ -3,6 +3,9 @@
 
 ## Code 201 - Foundations of Software Development: Readings: Object-Oriented Programming, HTML Tables
 
+## Overview of reading notes:
+
+The materials for today are important as it goes over the concepts on Object-Oriented Programming (OOP), objects, and HTML tables. Objects are a important topic to understand in programming as it is the foundation for alot of aspects in programming.
 
 ### Explain why we need domain modeling.
 
@@ -40,3 +43,5 @@ To help better explain prototypes and inheritances, I will use an anology from m
 Now, every student is different, with vastly different learning styles and each students have their own unique techniques to solve a problem. As students solve problems they may solve the problem different due to their own unique way of going about a problem. They use the basic methods I showed them and they also add their own spin to solving the problem. This is considered inheritance. 
 
 ## Things I want to know more about
+
+* I'm still confused about domain modeling?
