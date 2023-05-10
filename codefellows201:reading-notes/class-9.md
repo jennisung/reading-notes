@@ -3,6 +3,10 @@
 
 ## Code 201 - Foundations of Software Development: Readings: Forms and JS Events
 
+## Overview of readin
+
+These readings will be important as we delve further into how to add features to our website using JavaScript. Forms are an important part of many websites because they allow users to input and submit data. Event listeners are useful as they allow you to execute specific triggers from an action by the user.
+
 ### Why are forms so important in web development?
 
 **Forms** are a crucial part of web development because it is used to gather wide arrange of information/data from users or allow for interaction with users. 
@@ -48,3 +52,4 @@ In javascript, an event is what allows for things or "events" to happen on a web
 
 ## Things I want to know more about
 
+* Where is the data stored when using forms to collect user data?
