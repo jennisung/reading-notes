@@ -2,6 +2,12 @@
 
 ## Code 201 - Foundations of Software Development: Readings: CSS Layout
 
+## Overview of reading notes:
+
+
+These materials delve into CSS layout, specifically CSS flexbox. Learning more about the various tools in CSS is important to web design. It helps you structure your website better and help make a more responsive layout. 
+
+
 ### Flexbox is designed for one-dimensional content. Explain what this means.
 
 Flexible Box Layout Model, otherwise known as flexbox is a layout system that is able to take items of varying sizes, and arrange these items in the best possible layout, making it designed for one-dimensional content.
@@ -28,3 +34,5 @@ Flexbox will be a powerful tool when I get into web development as it'll help me
 
 
 ## Things I want to know more about
+
+* Differences between using the box model to structure website, compared to flexbox.
