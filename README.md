@@ -52,7 +52,9 @@
 
 14. [Class-14](https://jennisung.github.io/reading-notes/codefellows201:reading-notes/class-14)
 
-15. [Class-15](https://jennisung.github.io/reading-notes/codefellows201:reading-notes/class-15)
+15. [Class-14b](https://jennisung.github.io/reading-notes/codefellows201:reading-notes/class-14b)
+
+16. [Class-15](https://jennisung.github.io/reading-notes/codefellows201:reading-notes/class-15)
 
 ## Code 301 - Intermediate Software Development
 
