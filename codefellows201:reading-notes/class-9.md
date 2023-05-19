@@ -3,7 +3,7 @@
 
 ## Code 201 - Foundations of Software Development: Readings: Forms and JS Events
 
-## Overview of readin
+## Overview of reading
 
 These readings will be important as we delve further into how to add features to our website using JavaScript. Forms are an important part of many websites because they allow users to input and submit data. Event listeners are useful as they allow you to execute specific triggers from an action by the user.
 
