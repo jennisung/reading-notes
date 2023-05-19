@@ -26,4 +26,4 @@ Teams with a high degree of psychological safety allow individuals to feel more 
 
 ## Things I want to know more about:
 
-* 
+* Ways I can actively encourage this type of environment?
