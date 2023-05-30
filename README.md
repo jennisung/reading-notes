@@ -128,9 +128,10 @@
 I am a student at Code Fellows, aspiring to become a software developer. I reside in NYC and I'm a recent graduate of Columbia University 23' where I majored in Political Science.
 
 **Current Progress**
+
 - [x] Code 102: Intro to Software Development
 
-- [ ] Code 201: Foundations of Software Development
+- [x] Code 201: Foundations of Software Development
 
 - [ ] Code 301: Intermediate Software Development
 
