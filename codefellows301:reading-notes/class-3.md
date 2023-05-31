@@ -1,6 +1,6 @@
 # Reading-notes
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development: Passing Functions as Props
 
 ## Overview of reading notes
 
