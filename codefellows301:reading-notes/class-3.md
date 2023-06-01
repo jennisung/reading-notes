@@ -60,6 +60,27 @@ A spread operator is a syntax that can be used to add items to an array, combine
 
 `let johnCombined = { ...johnObj, ...addObj };`
 
+### In the video, what is the first step that the developer does to pass functions between components?
+
+In the video, the first step that the developer does to pass a function between component is to define the function of the parent componenet.
+
+
+### In your own words, what does the increment function do?
+
+Increment function is a function that increases the value of a state by a specified amount (increment by count).
+
+
+### How can you pass a method from a parent component into a child component?
+
+To pass a method from a parent to child componenet, you can pass a method as a propr when you render a child componenet
+
+
+### How does the child component invoke a method that was passed to it from a parent component?
+
+The child component can invoke a method that was passed by accessing the method through the props.
+
+
+
 ## Things I want to know more about
 
 * Other useful functions or other most used functions we'll bee using when we get into react?

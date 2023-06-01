@@ -4,6 +4,8 @@
 
 ## Overview of reading notes
 
+These readings are important as they delve into the Single Responsibility Principle and higher-order functions. The Single Responsibility Principle is crucial as it helps us build better user interfaces (UI). Higher-order functions are also important as they enable us to enhance the functionality of components. With higher-order functions, we can create more flexible and reusable components by providing additional features or behaviors. 
+
 ### What is the single responsibility principle and how does it apply to components?
 
 The **single responsibility principle** is a programming technique that helps in determining whether to create a function or object. Ideally, components should have a single purpose. If a component has multiple purposes, it is recommended to decompose and break it up into smaller subcomponents.
