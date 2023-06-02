@@ -1,6 +1,6 @@
 # Reading-notes
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development: Functional Programming
 
 ## Overview of reading notes
 
