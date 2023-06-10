@@ -1,6 +1,6 @@
 # Reading-notes
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development: CRUD
 
 ## Overview of reading notes
 These readings are important for understanding which HTTP status codes to use for every CRUD app. Additionally, the video is crucial as it guides us through the process of building a REST API.

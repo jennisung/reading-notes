@@ -41,20 +41,11 @@ Put is to replace something in another system.
 
 ### What does PATCH do?
 
-Patch is the update thr system.
-
-
-
-### Did you get your API key?
+Patch is the update the system.
 
 
 ### Did you get your API key?
-
-
-### Did you get your API key?
-
-
-#### Did you get your API key?
+Yes for all of the API
 
 ## Things I want to know more about
 
