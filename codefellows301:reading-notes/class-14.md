@@ -30,4 +30,4 @@ An example of a field that may find having a diverse company useful is in the fi
 
 ## Things I want to know more about
 
-*  Measures on how to find out if a company i want to apply to is diverse and inclusive?
+* Measures on how to find out if a company i want to apply to is diverse and inclusive?
