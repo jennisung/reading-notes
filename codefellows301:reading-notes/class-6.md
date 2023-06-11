@@ -45,7 +45,7 @@ Patch is the update the system.
 
 
 ### Did you get your API key?
-Yes for all of the API
+I got the API keys for weather, yelp, and movie. But I'm not sure where to create a API key for the geocoding? I see a token key. Not sure if that is it.
 
 ## Things I want to know more about
 
