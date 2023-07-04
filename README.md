@@ -1,6 +1,6 @@
-#  Reading Notes
+# Reading Notes
 
-*This page will serve as a place to document my notes for Code Fellows* 
+* This page will serve as a place to document my notes for Code Fellows* 
 
 ## Code 102 - Intro to Software Development
 
@@ -91,6 +91,12 @@
 
 
 ## Code 401 - Advanced Software Development
+
+**Prep**
+[Growth Mindset](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-1)
+[Terminal](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-2)
+
+
 
 1. [Class-1](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-1)
 
