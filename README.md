@@ -93,11 +93,12 @@
 ## Code 401 - Advanced Software Development
 
 **Prep**
-[Growth Mindset](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-1) 
+
+* [Growth Mindset](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-1) 
 
 <br>
 
-[Terminal](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-2)
+* [Terminal](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-2)
 
 
 1. [Class-1](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-1)
