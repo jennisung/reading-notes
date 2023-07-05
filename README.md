@@ -96,8 +96,6 @@
 
 * [Growth Mindset](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-1) 
 
-<br>
-
 * [Terminal](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-2)
 
 
