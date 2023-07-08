@@ -98,6 +98,7 @@
 
 * [Terminal](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-2)
 
+* [SQL](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-3)
 
 1. [Class-1](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-1)
 
