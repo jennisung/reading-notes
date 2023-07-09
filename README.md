@@ -100,6 +100,12 @@
 
 * [SQL](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-3)
 
+* [Data Structure & Algorithms](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-4)
+
+* [Engineering Readings](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/prep-5)
+
+
+
 1. [Class-1](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-1)
 
 2. [Class-2](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-2)
