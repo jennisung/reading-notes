@@ -35,7 +35,8 @@ The decimal value 13. (?)
 
 ## Write the number 52 in binary. Write it in hexidecimal.
 
-110100
+Binary: 110100
+Hexidecial: 34
 
 ## Things I want to know more about
 
