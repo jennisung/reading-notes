@@ -29,8 +29,7 @@ If you want to access a variable of a class without instantiating an object from
 A design pattern ensures that a class only as one instance, while allowing for global access to this instance.
 
 **Examples*
-1.
-2.
+Examples: An example, specifically related to being a teaching assistant for design patterns in Java, could be using a textbook or a curriculum guide as a reference to the course content. This guide acts as a blueprint for delivering the course content for the students.
 
 ## What is a Singleton?
 
