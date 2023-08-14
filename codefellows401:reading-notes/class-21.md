@@ -5,7 +5,7 @@
 
 ## Overview of reading notes
 
-The readings delve into Android app development, the app components, and resources.
+The readings delved into Android tasks and the concept of the back stack, along with intro into within the Android development.
 
 ### What is a technology you’ve used before that is similar to Shared Preferences?
 
