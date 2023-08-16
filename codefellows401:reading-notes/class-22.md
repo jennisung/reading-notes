@@ -13,6 +13,7 @@ A  RecyclerView is dynamic because RecyclerView efficiently shows large data set
 
 
 ### Share a screenshot of a recycler view in an application you use!
+![img](img/27.JPG)
 
 
 ## Things I want to know more about
