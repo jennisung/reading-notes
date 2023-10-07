@@ -1,7 +1,4 @@
 # Reading Notes
-
-* This page will serve as a place to document my notes for Code Fellows* 
-
 ## Code 102 - Intro to Software Development
 
 
@@ -178,16 +175,6 @@
 
 36. [Class-36](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-36)
 
-37. [Class-37](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-37)
-
-38. [Class-38](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-38)
-
-39. [Class-39](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-39)
-
-40. [Class-40](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-40)
-
-41. [Class-41](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-41)
-
 
 ## Introduction
 
@@ -201,12 +188,11 @@ I am a student at Code Fellows, aspiring to become a software developer. I resid
 
 - [x] Code 301: Intermediate Software Development
 
-- [ ] Code 401: Advanced Software Development
+- [x] Code 401: Advanced Software Development
 
 
 **Follow me on my journey as I learn how to code. Add me on my socials**
 
 👉 [Github profile](https://github.com/jennisung)  
-
 
 👉 [Linkedin profile](https://www.linkedin.com/in/jennisung/)
