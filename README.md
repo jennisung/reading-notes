@@ -1,4 +1,5 @@
 # Reading Notes
+
 ## Code 102 - Intro to Software Development
 
 
@@ -171,14 +172,12 @@
 
 34. [Class-34](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-34)
 
-35. [Class-35](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-35)
-
-36. [Class-36](https://jennisung.github.io/reading-notes/codefellows401:reading-notes/class-36)
-
 
 ## Introduction
 
-I am a student at Code Fellows, aspiring to become a software developer. I reside in NYC and I'm a recent graduate of Columbia University 23' where I majored in Political Science.
+Ho! I'm a full stack developer specialized in Java and Android Development. I'm also skilled in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express, and Spring Boot. Apart from coding and transitioning into the tech field, I also have a background in healthcare, education, and a degree in Political Science from Columbia University. Right now, I'm diving deeper into the world of Java and Android. Let's connect and build something!
+
+I'm open to collaborating with anyone on projects that make a positive impact. Please feel free to reach me, if you'd like to work together!
 
 **Current Progress**
 

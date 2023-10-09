@@ -1,4 +1,2 @@
 
 
-
-![Resume](./img/resume.png)
